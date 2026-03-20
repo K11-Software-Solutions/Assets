@@ -11,7 +11,7 @@ This repository hosts high-fidelity visual summaries of our engineering methodol
 
 | Date | Presentation Title | Format | Related Whitepaper |
 | :--- | :--- | :--- | :--- |
-| **2026-03-20** | **Layered Testing Strategies for Modern Distributed Systems** | [PPTX](./2026-03-layered-testing/deck.pptx) / [PDF](./2026-03-layered-testing/deck.pdf) | [Read Whitepaper →](../whitepaper/layered-testing-strategy) |
+| **2026-03-20** | **Layered Testing Strategies for Modern Distributed Systems** | [PPTX](./[Distributed_Testing_Blueprint.pptx)) / [PDF](./Comprehensive_Testing_Strategies_for_Modern_Distributed_Systems_v1.pdf) | [Read Whitepaper →](../whitepaper/Comprehensive_Testing_Strategies_for_Modern_Distributed_Systems_v1.pdf) |
 | **YYYY-MM-DD** | **[Future Presentation Title]** | [Link] | [Link] |
 
 ---
